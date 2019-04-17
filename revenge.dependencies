@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "android_device_xiaomi_msm8917-common",
+    "target_path": "device/xiaomi/msm8917-common"
+  },
+  {
+    "repository": "android_vendor_xiaomi_rolex",
+    "target_path": "vendor/xiaomi"
+  },
+  {
+    "repository": "android_kernel_xiaomi_msm8917",
+    "target_path": "kernel/xiaomi/msm8917
+  }
+]
