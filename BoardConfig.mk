@@ -26,6 +26,9 @@ USE_DEVICE_SPECIFIC_CAMERA := true
 TARGET_TS_MAKEUP := true
 TARGET_USES_QTI_CAMERA_DEVICE := true
 
+# Cryptfs_hw
+TARGET_CRYPTFS_HW_PATH := vendor/qcom/opensource/commonsys/cryptfs_hw
+
 # Kernel
 TARGET_KERNEL_CONFIG := rolex_defconfig
 
